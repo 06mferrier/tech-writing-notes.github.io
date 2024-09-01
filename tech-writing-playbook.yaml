@@ -1,5 +1,5 @@
 site:
-  title: Google Tech Writing One
+  title: My Notes From the Course
   url: https://tech-writing.com
   #start_page: pages:index.adoc
 content:
@@ -9,6 +9,6 @@ content:
     #start_path: docs
 ui:
   bundle:
-    url: C:\Users\Pc\antora-ui-tweaked.zip
+    url: C:\Users\Pc\antora-ui-tweaked\build\ui-bundle.zip
     #snapshot: true
-  default_layout: article
+  default_layout: default
