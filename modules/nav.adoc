@@ -1,3 +1,2 @@
 * xref:index.adoc[Introduction]
-*Topics
-** xref:words.adoc[Words]
+* xref:words.adoc[Words]
