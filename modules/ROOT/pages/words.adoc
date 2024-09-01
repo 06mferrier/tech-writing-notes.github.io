@@ -81,6 +81,3 @@ Identify all possible meanings for the ambiguous pronoun in the following:
 
 . *They* could refer to any combination of Aparna, Phil, Maysam and Karan,
 . *This* could refer to importing via the configuration file, importing dynamically at run time, or both.
-
-== Active voice
-
