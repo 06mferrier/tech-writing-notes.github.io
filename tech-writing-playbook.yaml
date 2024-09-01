@@ -10,4 +10,4 @@ content:
 ui:
   bundle:
     url: C:\Users\Pc\antora-ui-tweaked.zip
-    snapshot: true
+    #snapshot: true
