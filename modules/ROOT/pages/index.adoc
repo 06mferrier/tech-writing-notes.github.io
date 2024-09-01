@@ -1,0 +1,9 @@
+= Google Tech Writing One
+:author: Matthew Ferrier
+:email: mat_ferrier@hotmail.com
+
+== Introduction
+I am working through the technical writing courses from Google. This document is my notes from the course and serves a couple of purposes:
+
+* It provides me with notes that I can read at a later date,
+* It gives me an exercise in using new tools (namely AsciiDoc).

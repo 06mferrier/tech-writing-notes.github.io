@@ -1,0 +1,86 @@
+= Google Tech Writing One
+
+== Words
+Words unavoidably make up the bulk of any writing project. Being able to use the words good is helpful for the writing. _Okay I'll stop that now._
+
+=== Define new or unfamiliar terms
+You need to be able to spot terms that may be unfamiliar to some or all of your target audience. When you find such a term, proceed as follows:
+
+* _Don't reinvent the wheel:_ If the term already exists. Give a link to a good definition or explanation.
+* _Define it:_ If the term is new to your document, provide a clear definition. Include a glossary if the document introduces many terms.
+
+=== Be consistent
+If you change the name of a term partway through your document, you will confuse your readers.
+
+You should apply terms consistently throughout your document. Introducing something called a *whatsit* then later referring to it as a *whatdoyoucallit* might make sense in your head, but will be confusing to read for other people. As trivial as it sounds, a good thought to keep in mind is; _would I understand this if I was reading it for the first time?_
+
+=== Use acronyms correctly
+When it comes to introducing acronyms, the rule to follow is this:
+
+[sidebar]
+--
+The first time you use an unfamiliar acronym, spell out the full term, and put the acronym afterwards in parentheses. Both the full term and acronym should be in boldface. After the acronym has been introduced, use the acronym going forward, and don't cycle between using the long and short version.
+--
+
+For example: _This document is for staff new to the *Organisationally Serious System* (*OSS*). The OSS is used in all aspects of the business and is especially useful for monitoring customer satisfaction._
+
+Whether or not you should shorten a particular phrase and use an acronym instead is another matter. Acronyms certainly reduce the length of sentences but your readers must expand each acronym in their head, especially when they first learn them. Some guidelines to follow are below:
+
+* Don't define an acronym that would only be used a few times,
+* Do define an acronym when it appears many times in the document, and the acronym is significantly shorter than the full term.
+
+=== Exercise
+
+Fix the following passage.
+
+[sidebar]
+--
+Jeff Dean invented MapReduce in 1693, implementing the algorithm on a silicon-based computer fabricated from beach sand, wax-paper, a quill pen, and a toaster oven. This version of MR held several world performance records until 2014.
+--
+
+Jeff Dean invented *MapReduce* (*MR*) in 1693, implementing the algorithm on a silicon-based computer fabricated from beach sand, wax-paper, a quill pen, and a toaster oven. This version of MR held several world performance records until 2014.
+
+This improvement assumes that MapReduce would feature heavily in the proceeding document, so that reducing to the acronym MR is worthwhile.
+
+=== Recognise ambiguous pronouns
+
+In many applications, pronouns point to a previously introduced noun. In between the pronoun and the noun it refers to, if there are a lot of extra words, or if another noun is introduced, then the precise meaning of passage can be unclear. Consider the following example:
+
+[sidebar]
+--
+Python is interpreted, while C++ is compiled. It has an almost cult-like following.
+--
+
+Which noun does *it* refer to?
+
+To reuse the analogy from the Google course, when a pronoun refers to a previously introduced noun, the pronoun is behaving like a pointer in programming. Improper use of pronouns can then lead to equivalent of a null pointer in your reader's heads. Consider the following guidelines:
+
+* Only use a pronoun after the noun, and never use the pronoun before introducing the noun,
+* Place a pronoun as close as possible to the noun it refers to. Consider repeating the noun if there are ~5 or more words separating it from the pronoun,
+* If there is a second noun between a noun and a pronoun, repeat the noun.
+
+Some pronouns cause more confusion than others. One example is:
+
+* It,
+* They, them and their.
+
+Another example is:
+
+* This,
+* That.
+
+=== Exercise
+
+Identify all possible meanings for the ambiguous pronoun in the following:
+
+[sidebar]
+--
+. Aparna and Phil share responsibilities with Maysam and Karan and they are next on call,
+. You may import Carambola data via your configuration file or dynamically at run time. This may be a security risk.
+--
+
+. *They* could refer to any combination of Aparna, Phil, Maysam and Karan,
+. *This* could refer to importing via the configuration file, importing dynamically at run time, or both.
+
+== Active voice
+
