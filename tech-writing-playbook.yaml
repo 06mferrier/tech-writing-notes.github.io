@@ -9,5 +9,5 @@ content:
     #start_path: docs
 ui:
   bundle:
-    url: https://github.com/06mferrier/antora-ui-tweaked
+    url: C:\Users\Pc\antora-ui-tweaked.zip
     snapshot: true
