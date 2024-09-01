@@ -1,6 +1,4 @@
-= Google Tech Writing One
-
-== Words
+= Words
 Words unavoidably make up the bulk of any writing project. Being able to use the words good is helpful for the writing. _Okay I'll stop that now._
 
 === Define new or unfamiliar terms
