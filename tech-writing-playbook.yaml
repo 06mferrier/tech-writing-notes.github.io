@@ -11,3 +11,4 @@ ui:
   bundle:
     url: C:\Users\Pc\antora-ui-tweaked.zip
     #snapshot: true
+  default_layout: article
