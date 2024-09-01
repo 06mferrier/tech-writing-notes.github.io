@@ -1,2 +1,4 @@
 .Topics
+* xref:grammar.adoc[Grammar]
 * xref:words.adoc[Words]
+* xref:active-passive.adoc[Active Voice vs Passive Voice]
