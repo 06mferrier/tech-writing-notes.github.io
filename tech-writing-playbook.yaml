@@ -1,4 +1,13 @@
 site:
   title: Google Tech Writing One
-  url: https://tech-writing.com
+  #url: https://tech-writing.com
   start_page: intro.adoc
+content:
+  sources:
+  - url: https://github.com/06mferrier/tech-writing-one
+    branches: main
+    #start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
