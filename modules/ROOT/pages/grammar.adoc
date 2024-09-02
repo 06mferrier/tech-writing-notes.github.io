@@ -206,5 +206,23 @@ Parameters may optionally appear *within* a URL, *after* the path.
 
 == Conjunctions & Transitions
 
+These words are types of connection. Conjunctions connect phrases or nouns within a sentence. Transitions connect sentences with other sentences.
+
+.{nbsp}
+[example]
+Example of conjunctions
+
+.{nbsp}
+[example]
+Example of transitions
+
+
+.{nbsp}
+====
+Conside the following passage. We have inserted and highlighted the transition.
+
+[sidebar]
+Barbara typically studies problems for a long time before writing the first line of code. *However*, she spontaneously coded a method the other day when she was suddenly inspired.
+====
 
 
