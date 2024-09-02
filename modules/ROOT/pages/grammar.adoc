@@ -52,6 +52,7 @@ This table covers the parts of speech you need to know about.
 
 Nouns are words that represent people, places or things. Nouns can be concrete things such as *Jim*, *England* and *Racket*. However, they can also be more abstract concepts like *robustness* and *perfection*. Consider the following example passage from Google, with all the nouns highlighted in bold.
 
+[example]
 ====
 In the *framework*, an *object* must copy any underlying *values* that the *object* wants to change. The *protocol buffers* in the *codebase* are huge, so copying the *protocol buffers* is unacceptably expensive.
 ====
@@ -123,6 +124,7 @@ There are instances when verbs consist of more than one word:
 
 Consider the following passage. We will highlight the verbs it contains.
 
+====
 Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C{plus}{plus}. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
 ====
 
