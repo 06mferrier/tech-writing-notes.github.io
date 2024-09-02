@@ -93,17 +93,17 @@ Pronouns can replace longer passages.
 Without warning, halfway through the user manual the language changed from English to French. *This* is poor documentation.
 
 
-.Exercise
-****
+.{nbsp}
+====
 Consider the following passage. We will highlight the pronouns it contains.
 
-[exercise]
+[sidebar]
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found it awesome and wished they could eat this every day.
 
 .Solution
-[example]
+[sidebar]
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found *it* awesome and wished *they* could eat *this* every day.
-****
+====
 
 == Verbs
 
