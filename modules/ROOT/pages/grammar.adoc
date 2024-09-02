@@ -81,7 +81,7 @@ In this sentence, *control* is a noun, despite the fact that *to control* was a 
 
 == Pronouns
 
-Pronouns act as pointers. They point to previously introduced nouns. Consider the example from the earlier table:
+Pronouns act as pointers. They point to previously introduced nouns. This example is take from the earlier table:
 
 .{nbsp}
 [example]
@@ -126,14 +126,11 @@ There are instances when verbs consist of more than one word:
 * Tinky Winky *was eating* their tubby custard an hour ago.
 * Bill *will be eating* Pizza for his tea.
 
-Consider the following passage. We will highlight the verbs it contains.
+.{nbsp}
+====
+Consider the following passage. We have highlighted the verbs it contains.
 
-====
-Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C{plus}{plus}. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
-====
-
-.Solution
-====
+[sidebar]
 Samantha *is coding* Operation Bullwinkle in C{plus}{plus}. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C{plus}{plus}. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
 ====
 
