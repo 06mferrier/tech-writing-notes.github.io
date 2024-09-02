@@ -109,7 +109,7 @@ Sentences can contain multiple verbs. Here are some examples:
 
 There are instances when verbs consist of more than one word:
 
-* Tinky Winky *was eating* his tubby custard an hour ago.
+* Tinky Winky *was eating* their tubby custard an hour ago.
 * Bill *will be eating* Pizza for his tea.
 
 === Exercise
@@ -117,9 +117,9 @@ There are instances when verbs consist of more than one word:
 Consider the following passage. We will highlight the verbs it contains.
 
 [sidebar]
-Samantha is coding Operation Bullwinkle in C++. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C++. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
+Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C{plus}{plus}. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
 
-Samantha *is coding* Operation Bullwinkle in C++. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C++. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
+Samantha *is coding* Operation Bullwinkle in C{plus}{plus}. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C{plus}{plus}. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
 
 
 == Adjectives & Adverbs
