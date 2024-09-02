@@ -1,4 +1,5 @@
 = Grammar
+:example-caption:
 
 Do you know your nouns from your pronouns? What about your verbs from your adverbs? This page will give a basic introduction to different types of word that is most revelevant to these notes.
 
@@ -59,7 +60,7 @@ In the *framework*, an *object* must copy any underlying *values* that the *obje
 
 Consider the following passage. We will highlight the nouns it contains.
 
-.
+[example]
 C enables programmers to control pointers and memory. Great power brings great responsibility.
 
 
