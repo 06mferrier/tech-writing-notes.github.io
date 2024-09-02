@@ -116,11 +116,15 @@ There are instances when verbs consist of more than one word:
 
 Consider the following passage. We will highlight the verbs it contains.
 
-[sidebar]
+.Exercise
+====
 Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C{plus}{plus}. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
+====
 
+.Solution
+====
 Samantha *is coding* Operation Bullwinkle in C{plus}{plus}. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C{plus}{plus}. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
-
+====
 
 == Adjectives & Adverbs
 
