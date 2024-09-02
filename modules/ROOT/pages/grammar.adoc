@@ -1,5 +1,4 @@
 = Grammar
-:!example-caption:
 
 Do you know your nouns from your pronouns? What about your verbs from your adverbs? This page will give a basic introduction to different types of word that is most revelevant to these notes.
 
@@ -53,22 +52,27 @@ This table covers the parts of speech you need to know about.
 
 Nouns are words that represent people, places or things. Nouns can be concrete things such as *Jim*, *England* and *Racket*. However, they can also be more abstract concepts like *robustness* and *perfection*. Consider the following example passage from Google, with all the nouns highlighted in bold.
 
-[sidebar]
+====
 In the *framework*, an *object* must copy any underlying *values* that the *object* wants to change. The *protocol buffers* in the *codebase* are huge, so copying the *protocol buffers* is unacceptably expensive.
-
-=== Exercise
+====
 
 Consider the following passage. We will highlight the nouns it contains.
 
-[sidebar]
+:!example-caption:
+====
 C enables programmers to control pointers and memory. Great power brings great responsibility.
+====
 
+.Solution
+====
 *C* enables *programmers* to control *pointers* and *memory*. Great *power* brings great *responsibility*.
+====
 
 Suppose that the second sentence was replaced with the following:
 
-[sidebar]
+====
 Great control brings great responsibility.
+====
 
 In this sentenece, *control* is a noun, despite the fact that *to control* was a verb in the first sentence. Many words have a dual purpose like this. They can be nouns in some contexts, and verbs in others.
 
@@ -83,17 +87,21 @@ The pronoun *he* points to the noun *Jim* that is introduced in the first senten
 
 Pronouns can replace longer passages. Consider this example:
 
-[sidebar]
+:example-caption:
+====
 Without warning, halfway through the user manual the language changed from English to French. *This* is poor documentation.
-
-=== Exercise
+====
 
 Consider the following passage. We will highlight the pronouns it contains.
-
-[sidebar]
+:!example-caption:
+====
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found it awesome and wished they could eat this every day.
+====
 
+.Solution
+====
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found *it* awesome and wished *they* could eat *this* every day.
+====
 
 == Verbs
 
@@ -113,12 +121,8 @@ There are instances when verbs consist of more than one word:
 * Tinky Winky *was eating* their tubby custard an hour ago.
 * Bill *will be eating* Pizza for his tea.
 
-=== Exercise
-
 Consider the following passage. We will highlight the verbs it contains.
 
-.Exercise
-====
 Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C{plus}{plus}. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
 ====
 
