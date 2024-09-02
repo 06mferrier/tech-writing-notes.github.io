@@ -57,24 +57,26 @@ Nouns are words that represent people, places or things. Nouns can be concrete t
 In the *framework*, an *object* must copy any underlying *values* that the *object* wants to change. The *protocol buffers* in the *codebase* are huge, so copying the *protocol buffers* is unacceptably expensive.
 
 
+.Exercise
+****
 Consider the following passage. We will highlight the nouns it contains.
 
 [example]
 C enables programmers to control pointers and memory. Great power brings great responsibility.
 
-
+:!example-caption:
 .Solution
-====
+[example]
 *C* enables *programmers* to control *pointers* and *memory*. Great *power* brings great *responsibility*.
-====
+:example-caption:
 
 Suppose that the second sentence was replaced with the following:
 
-====
+[example]
 Great control brings great responsibility.
-====
 
 In this sentenece, *control* is a noun, despite the fact that *to control* was a verb in the first sentence. Many words have a dual purpose like this. They can be nouns in some contexts, and verbs in others.
+****
 
 == Pronouns
 
