@@ -7,21 +7,39 @@ This table covers the parts of speech you need to know about. Some entries may r
 
 [cols="1,1,1"]
 |===
-|*Part of speech* , *Definition* , *Example*
+|*Part of speech*
+|*Definition*
+|*Example*
 
-|Noun , A person, place, concept or thing. , *Jim* plays tennis.
+|Noun
+|A person, place, concept or thing.
+|*Jim* plays tennis.
 
-|Pronoun , A noun that replaces another noun or noun phrase. , Jim plays tennis. *He* often wins.
+|Pronoun
+|A noun that replaces another noun or noun phrase.
+|Jim plays tennis. *He* often wins.
 
-|Adjective , A word or phrase that modifies a noun. , Jim has a *red* racket.
+|Adjective
+|A word or phrase that modifies a noun.
+|Jim has a *red* racket.
 
-|Verb , An action word or phrase. , Jim *plays* tennis.
+|Verb
+|An action word or phrase.
+|Jim *plays* tennis.
 
-|Adverb , A word or phrase that modifies a verb, adjective or another adverb. , Jim *expertly* plays tennis.
+|Adverb
+|A word or phrase that modifies a verb, adjective or another adverb.
+|Jim *expertly* plays tennis.
 
-|Preposition , A word or phrase specifying the positional relationship of two nouns. , Jim's racket is often *in* his hand.
+|Preposition
+|A word or phrase specifying the positional relationship of two nouns.
+|Jim's racket is often *in* his hand.
 
-|Conjunction , A word that connects two nouns or phrases. , Jim's racket *and* tennis shoes are his most expensive pieces of equipment.
+|Conjunction
+|A word that connects two nouns or phrases.
+|Jim's racket *and* tennis shoes are his most expensive pieces of equipment.
 
-|Transition , A word or phrase that connects two sentences. , Jim plays tennis weekly. Consequently he is quite good.
+|Transition
+|A word or phrase that connects two sentences.
+|Jim plays tennis weekly. Consequently he is quite good.
 |===
