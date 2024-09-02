@@ -177,17 +177,17 @@ Prepositions describe the relationship between two things. They can tell us wher
 
 .{nbsp}
 ====
-*The ball is *under* the table.
-*Customer information is contained *inside* the file customer-info.txt.
-*The man is standing *next to* the bus stop.
+* The ball is *under* the table.
+* Customer information is contained *inside* the file customer-info.txt.
+* The man is standing *next to* the bus stop.
 ====
 
 Prepositions can tell us when an event is, relative to another event.
 
 .{nbsp}
 ====
-*The accounts team updates the customer-info.txt file every Wednesday *at* 5pm.
-*Most people have breakfast *before* lunch.
+* The accounts team updates the customer-info.txt file every Wednesday *at* 5pm.
+* Most people have breakfast *before* lunch.
 ====
 
 Some prepositions, for example by and of tell us other information about relationships.
@@ -203,7 +203,6 @@ Consider the following passage. We have highlighted the prepositions it contains
 [sidebar]
 Parameters may optionally appear *within* a URL, *after* the path.
 ====
-
 
 == Conjunctions & Transitions
 
