@@ -83,9 +83,9 @@ The pronoun *he* points to the noun *Jim* that is introduced in the first senten
 Pronouns can replace longer passages. Consider this example:
 
 [sidebar]
-Without warning, halfway through the user manual, the language changed from English to French. *This* is poor documentation.
+Without warning, halfway through the user manual the language changed from English to French. *This* is poor documentation.
 
-===Exercise
+=== Exercise
 
 Consider the following passage. We will highlight the pronouns it contains.
 
@@ -94,9 +94,33 @@ The cafeteria featured peanut butter and plum jam on rye toast. Employees found 
 
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found *it* awesome and wished *they* could eat *this* every day.
 
-
-
 == Verbs
+
+To quote most primary school teachers in the UK; _verbs are doing words_. Verbs are action words or phrases. They are used to represent the relationship between two nouns. Each sentence must contain at least one verb. Here are some examples of sentences containing one verb:
+
+* Bill *likes* pizza.
+* Tinky Winky *is* purple.
+* Clangers *like* soup.
+
+Sentences can contain multiple verbs. Here are some examples:
+
+* Tinky Winky *is* purple and *likes* tubby custard.
+* Bill *likes* pizza but *prefers* pasta.
+
+There are instances when verbs consist of more than one word:
+
+* Tinky Winky *was eating* his tubby custard an hour ago.
+* Bill *will be eating* Pizza for his tea.
+
+=== Exercise
+
+Consider the following passage. We will highlight the verbs it contains.
+
+[sidebar]
+Samantha is coding Operation Bullwinkle in C++. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C++. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.
+
+Samantha *is coding* Operation Bullwinkle in C++. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C++. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
+
 
 == Adjectives & Adverbs
 
