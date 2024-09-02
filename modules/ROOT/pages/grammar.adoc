@@ -122,9 +122,9 @@ Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently
 ====
 
 .Solution
-====
+[example]
 Samantha *is coding* Operation Bullwinkle in C{plus}{plus}. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C{plus}{plus}. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
-====
+
 
 == Adjectives & Adverbs
 
