@@ -1,6 +1,6 @@
 = Grammar
 
-Do you know your nouns from your pronouns? What about your verbs from your adverbs? This page will give a basic introduction to different types of word that is most revelevant to these notes.
+Do you know your nouns from your pronouns? What about your verbs from your adverbs? This page will give a basic introduction to different types of word that is most revelevant to these notes. This is a particularly example heavy page.
 
 == Parts of Speech
 This table covers the parts of speech you need to know about.
@@ -122,16 +122,18 @@ To quote most primary school teachers in the UK; _verbs are doing words_. Verbs 
 Sentences can contain multiple verbs.
 
 .{nbsp}
-[example]
+====
 * Tinky Winky *is* purple and *likes* tubby custard.
 * Bill *likes* pizza but *prefers* pasta.
+====
 
 There are instances when verbs consist of more than one word.
 
 .{nbsp}
-[example]
+====
 * Tinky Winky *was eating* their tubby custard an hour ago.
 * Bill *will be eating* Pizza for his tea.
+====
 
 .{nbsp}
 ====
@@ -170,6 +172,38 @@ Engineering is a *great* career for a *brilliant* mind. I know a *clever* engine
 ====
 
 == Prepositions
+
+Prepositions describe the relationship between two things. They can tell us where one thing is, relative to another thing.
+
+.{nbsp}
+====
+*The ball is *under* the table.
+*Customer information is contained *inside* the file customer-info.txt.
+*The man is standing *next to* the bus stop.
+====
+
+Prepositions can tell us when an event is, relative to another event.
+
+.{nbsp}
+====
+*The accounts team updates the customer-info.txt file every Wednesday *at* 5pm.
+*Most people have breakfast *before* lunch.
+====
+
+Some prepositions, for example by and of tell us other information about relationships.
+
+.{nbsp}
+[example]
+The C Programming Language *by* Kernighan and Richie remains popular.
+
+.{nbsp}
+====
+Consider the following passage. We have highlighted the prepositions it contains.
+
+[sidebar]
+Parameters may optionally appear *within* a URL, *after* the path.
+====
+
 
 == Conjunctions & Transitions
 
