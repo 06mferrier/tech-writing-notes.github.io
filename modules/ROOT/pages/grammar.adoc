@@ -59,7 +59,6 @@ In the *framework*, an *object* must copy any underlying *values* that the *obje
 
 .Exercise
 ****
-:!example-caption:
 Consider the following passage. We will highlight the nouns it contains.
 
 [example]
@@ -75,7 +74,6 @@ Suppose that the second sentence was replaced with the following:
 Great control brings great responsibility.
 
 In this sentence, *control* is a noun, despite the fact that *to control* was a verb in the first sentence. Many words have a dual purpose like this. They can be nouns in some contexts, and verbs in others.
-:example-caption:
 ****
 
 == Pronouns
@@ -102,12 +100,9 @@ Consider the following passage. We will highlight the pronouns it contains.
 [exercise]
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found it awesome and wished they could eat this every day.
 
-:!example-caption:
 .Solution
 [example]
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found *it* awesome and wished *they* could eat *this* every day.
-
-:example-caption:
 ****
 
 == Verbs
