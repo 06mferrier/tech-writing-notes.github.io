@@ -97,10 +97,10 @@ Without warning, halfway through the user manual the language changed from Engli
 ====
 Consider the following passage. We will highlight the pronouns it contains.
 
-[sidebar]
-The cafeteria featured peanut butter and plum jam on rye toast. Employees found it awesome and wished they could eat this every day.
+//[sidebar]
+//The cafeteria featured peanut butter and plum jam on rye toast. Employees found it awesome and wished they could eat this every day.
 
-.Solution
+//.Solution
 [sidebar]
 The cafeteria featured peanut butter and plum jam on rye toast. Employees found *it* awesome and wished *they* could eat *this* every day.
 ====
