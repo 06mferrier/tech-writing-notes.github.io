@@ -3,7 +3,7 @@
 Do you know your nouns from your pronouns? What about your verbs from your adverbs? This page will give a basic introduction to different types of word that is most revelevant to these notes.
 
 == Parts of Speech
-This table covers the parts of speech you need to know about. Some entries may reference other parts of speech that you need to look up. This is this risk with a non-exhaustive list like this.
+This table covers the parts of speech you need to know about.
 
 [cols="1,1,1"]
 |===
@@ -13,7 +13,7 @@ This table covers the parts of speech you need to know about. Some entries may r
 
 |Noun
 |A person, place, concept or thing.
-|*Jim* plays tennis.
+|*Jim* plays *tennis* with his *racket*.
 
 |Pronoun
 |A noun that replaces another noun or noun phrase.
@@ -22,6 +22,10 @@ This table covers the parts of speech you need to know about. Some entries may r
 |Adjective
 |A word or phrase that modifies a noun.
 |Jim has a *red* racket.
+
+|Noun phrase
+|A group of words that acts as a noun.
+|Jim has a *big red* racket.
 
 |Verb
 |An action word or phrase.
@@ -43,3 +47,62 @@ This table covers the parts of speech you need to know about. Some entries may r
 |A word or phrase that connects two sentences.
 |Jim plays tennis weekly. Consequently he is quite good.
 |===
+
+== Nouns
+
+Nouns are words that represent people, places or things. Nouns can be concrete things such as *Jim*, *England* and *Racket*. However, they can also be more abstract concepts like *robustness* and *perfection*. Consider the following example passage from Google, with all the nouns highlighted in bold.
+
+[sidebar]
+In the *framework*, an *object* must copy any underlying *values* that the *object* wants to change. The *protocol buffers* in the *codebase* are huge, so copying the *protocol buffers* is unacceptably expensive.
+
+=== Exercise
+
+Consider the following passage. We will highlight the nouns it contains.
+
+[sidebar]
+C enables programmers to control pointers and memory. Great power brings great responsibility.
+
+*C* enables *programmers* to control *pointers* and *memory*. Great *power* brings great *responsibility*.
+
+Suppose that the second sentence was replaced with the following:
+
+[sidebar]
+Great control brings great responsibility.
+
+In this sentenece, *control* is a noun, despite the fact that *to control* was a verb in the first sentence. Many words have a dual purpose like this. They can be nouns in some contexts, and verbs in others.
+
+== Pronouns
+
+Pronouns act as pointers. They point to previously introduced nouns. Consider the example from the earlier table:
+
+[sidebar]
+Jim plays tennis. *He* often wins.
+
+The pronoun *he* points to the noun *Jim* that is introduced in the first sentence.
+
+Pronouns can replace longer passages. Consider this example:
+
+[sidebar]
+Without warning, halfway through the user manual, the language changed from English to French. *This* is poor documentation.
+
+===Exercise
+
+Consider the following passage. We will highlight the pronouns it contains.
+
+[sidebar]
+The cafeteria featured peanut butter and plum jam on rye toast. Employees found it awesome and wished they could eat this every day.
+
+The cafeteria featured peanut butter and plum jam on rye toast. Employees found *it* awesome and wished *they* could eat *this* every day.
+
+
+
+== Verbs
+
+== Adjectives & Adverbs
+
+== Prepositions
+
+== Conjunctions & Transitions
+
+
+
