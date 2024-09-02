@@ -113,10 +113,11 @@ The cafeteria featured peanut butter and plum jam on rye toast. Employees found 
 To quote most primary school teachers in the UK; _verbs are doing words_. Verbs are used to represent the relationship between two nouns. Each sentence must contain at least one verb. Here are some sentences containing one verb.
 
 .{nbsp}
-[example]
+====
 * Bill *likes* pizza.
 * Tinky Winky *is* purple.
 * Clangers *like* soup.
+====
 
 Sentences can contain multiple verbs.
 
