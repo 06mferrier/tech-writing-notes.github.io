@@ -110,19 +110,25 @@ The cafeteria featured peanut butter and plum jam on rye toast. Employees found 
 
 == Verbs
 
-To quote most primary school teachers in the UK; _verbs are doing words_. Verbs are action words or phrases. They are used to represent the relationship between two nouns. Each sentence must contain at least one verb. Here are some examples of sentences containing one verb:
+To quote most primary school teachers in the UK; _verbs are doing words_. Verbs are used to represent the relationship between two nouns. Each sentence must contain at least one verb. Here are some sentences containing one verb.
 
+.{nbsp}
+[example]
 * Bill *likes* pizza.
 * Tinky Winky *is* purple.
 * Clangers *like* soup.
 
-Sentences can contain multiple verbs. Here are some examples:
+Sentences can contain multiple verbs.
 
+.{nbsp}
+[example]
 * Tinky Winky *is* purple and *likes* tubby custard.
 * Bill *likes* pizza but *prefers* pasta.
 
-There are instances when verbs consist of more than one word:
+There are instances when verbs consist of more than one word.
 
+.{nbsp}
+[example]
 * Tinky Winky *was eating* their tubby custard an hour ago.
 * Bill *will be eating* Pizza for his tea.
 
@@ -135,6 +141,32 @@ Samantha *is coding* Operation Bullwinkle in C{plus}{plus}. This project current
 ====
 
 == Adjectives & Adverbs
+
+Adjectives are words that modify nouns.
+
+.{nbsp}
+[example]
+Jim likes his *red* tennis racket. He plays in an *amateur* league. He won his last *seven* games.
+
+Adverbs can modify verbs, adjectives or other adverbs. Most commonly they modify verbs.
+
+.{nbsp}
+[example]
+For an amateur, Jim *expertly* plays tennis.
+
+Adverbs don't have to appear right next to the verb they are modifying.
+
+.{nbsp}
+[example]
+For an amateuer, Jim plays tennis *expertly*.
+
+.{nbsp}
+====
+Consider the following passage. We have highlighted all the adjectives it contains.
+
+[sidebar]
+Engineering is a *great* career for a *brilliant* mind. I know a *clever* engineer who could excel at any *intellectual* task.
+====
 
 == Prepositions
 
