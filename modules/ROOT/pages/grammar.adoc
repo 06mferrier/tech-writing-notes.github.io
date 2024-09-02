@@ -1,4 +1,5 @@
 = Grammar
+:!example-caption:
 
 Do you know your nouns from your pronouns? What about your verbs from your adverbs? This page will give a basic introduction to different types of word that is most revelevant to these notes.
 
@@ -122,9 +123,9 @@ Samantha is coding Operation Bullwinkle in C{plus}{plus}. This project currently
 ====
 
 .Solution
-[example]
+====
 Samantha *is coding* Operation Bullwinkle in C{plus}{plus}. This project currently *consumes* over 80,000 lines of code. She previously *used* Python, but recently *gravitated* to C{plus}{plus}. Samantha *leads* a team of four software engineers, which *will grow* to six software engineers next quarter.
-
+====
 
 == Adjectives & Adverbs
 
