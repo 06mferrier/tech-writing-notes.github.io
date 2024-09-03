@@ -208,7 +208,6 @@ Parameters may optionally appear *within* a URL, *after* the path.
 
 These words are types of connection. Conjunctions connect phrases or nouns within a sentence. Transitions connect sentences with other sentences.
 
-This example demonstrates some conjunctions.
 .Conjuctions
 [example]
 Jim is an accomplished amateur tennis player *and* runner, *but* he never wanted to be a professional athlete.
