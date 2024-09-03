@@ -210,11 +210,11 @@ These words are types of connection. Conjunctions connect phrases or nouns withi
 
 .{nbsp}
 [example]
-Example of conjunctions
+Jim is an accomplished amateur tennis player *and* runner, *but* he never wanted to be a professional athlete.
 
 .{nbsp}
 [example]
-Example of transitions
+Jim is an accomplished amateur tennis player. *However* he never wanted to play professionally. *For example*, he didn't want to commit to the neccessary training regime.
 
 
 .{nbsp}
