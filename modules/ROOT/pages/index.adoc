@@ -7,4 +7,4 @@ I am working through the technical writing courses from Google. This document co
 * It provides me with notes that I can read at a later date,
 * It gives me an exercise in using new tools, Specifically Asciidoc for writing the notes, and Antora for generating this site.
 
-Use the navigation menu on the left hand side of the page to explore these notes.
+Use the navigation menu on the left hand side of the page to explore these notes. This is currently a work in progress, and more pages will be added as I write them up.
