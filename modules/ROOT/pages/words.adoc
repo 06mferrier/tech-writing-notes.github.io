@@ -67,7 +67,7 @@ Another example is:
 * This,
 * That.
 
-.{nbsp
+.{nbsp}
 ====
 We will identify all possible meanings for the ambiguous pronoun in the following:
 
